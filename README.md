@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=280&section=header&text=Taerin%20Ha&&fontColor=632a72&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=180&section=header&text=Taerin%20Ha&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=25)
 
 
 <h3 align="center"> 👋Hi there, </h3>
@@ -35,4 +35,4 @@
 <br>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=150&section=footer)
