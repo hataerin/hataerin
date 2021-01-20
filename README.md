@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=180&section=header&text=Taerin%20Ha&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=Taerin%20Ha&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
 
 
 <h3 align="center"> 👋Hi there, </h3>
@@ -26,13 +26,12 @@
 </p>
  
 
-<br><br>
+<br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://velog.io/@hotoron"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hotoron"/></a>&nbsp
   <a href="hataerinn@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hataerinn@gmail.com"/></a>
 </p>
-<br>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=170&section=footer)
