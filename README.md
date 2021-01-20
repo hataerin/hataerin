@@ -16,8 +16,8 @@
 
 
   <br>
-  <img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/APACHE-D42029?style=flat-square&logo=apache&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
