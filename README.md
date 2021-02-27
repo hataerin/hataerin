@@ -6,8 +6,8 @@
 
 <h3 align="center"> ⏳ History ⏳</h3>
 <p align="center">
-  🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~)</a> 
-🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> 
+  🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~)</a><br> 
+🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br>
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
