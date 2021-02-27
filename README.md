@@ -4,6 +4,11 @@
 <h3 align="center"> 👋Hi there, </h3>
 <p align="center">I'm Taerin Ha, a junior back-end developer🐣</p>
 
+<h3 align="center"> ⏳ History ⏳</h3>
+<p align="center">
+  🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~)</a> 
+🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> 
+</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
