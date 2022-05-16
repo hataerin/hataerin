@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://velog.io/@hotoron" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hotoron"/></a>&nbsp
   <a href="hataerinn@gmail.com" target="_sub"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hataerinn@gmail.com"/></a>&nbsp
-  <a href="https://cake-gem-e0b.notion.site/HA-TAERIN-83ab9a1217f447d1a70c0cf7a6b6eb49" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://cake-gem-e0b.notion.site/HA-TAERIN-83ab9a1217f447d1a70c0cf7a6b6eb4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 
