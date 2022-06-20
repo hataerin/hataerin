@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=Taerin%20Ha&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaerinHa&fontAlign=70&fontAlignY=35&color=gradient)
 
 
 <h3 align="center"> 👋Hi there, </h3>
