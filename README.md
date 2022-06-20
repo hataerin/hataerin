@@ -4,11 +4,7 @@
 <h3 align="center"> 👋Hi there, </h3>
 <p align="center">I'm Taerin Ha, a junior back-end developer🐣</p>
 
-<h3 align="center"> ⏳ History ⏳</h3>
-<p align="center">
-  🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~)</a><br> 
-🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br>
-</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -38,6 +34,3 @@
   <a href="hataerinn@gmail.com" target="_sub"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hataerinn@gmail.com"/></a>&nbsp
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
-
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=170&section=footer)
