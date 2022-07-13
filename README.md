@@ -1,5 +1,4 @@
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaerinHa&fontAlign=50&fontAlignY=35&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Taerin%20Ha&fontSize=70&animation=fadeIn&fontAlign=65&fontAlignY=38&desc=Jounior%20Backend%20Developer&descAlignY=43&descAlign=30)
 
 
 <h3 align="center"> 👋Hi there, </h3>
