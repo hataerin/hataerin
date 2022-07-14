@@ -14,15 +14,14 @@
 
 
 ### Tech Stack 
-**BackEnd** : 
+- **BackEnd** : 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logoColor=white&logo=spring)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logoColor=white&logo=springboot)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logoColor=white&logo=Gradle)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logoColor=white&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logoColor=white&logo=mongodb)
-</br>
-**DevOps** : 
+- **DevOps** : 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logoColor=white&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logoColor=white&logo=Kubernetes)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logoColor=white&logo=NGINX)
@@ -34,7 +33,7 @@
 
 ### Contacts
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhataerin&count_bg=%23177E89&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%AD%90hits+&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhataerin&count_bg=%23177E89&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%AD%90hits+&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-084c61?style=flat&logoColor=white&logo=tvtime)](https://dev-taerin.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db3a34?style=flat&logo=Gmail&logoColor=white)](mailto:goil1113@likelion.org)
 ![Notion Badge](https://img.shields.io/badge/Portfolio-f0a202?style=flat&logoColor=white&logo=notion)
