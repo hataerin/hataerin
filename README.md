@@ -1,25 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Taerin%20Ha&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Growth%20oriented%20Engineer&descAlignY=43&descAlign=60)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<!-- 백준 프로필 카드
+<a href="https://solved.ac/profile/taerinn">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taerinn">
+</a>
+-->
+<a href="https://solved.ac/profile/taerinn">
+<img align='right' src="http://mazandi.herokuapp.com/api?handle=taerinn&theme=warm"/>
+</a>
+
 <p>
   I am junior backend developer 🐣 </br>
   I want to grow more and more!
 </p>
 
-<a href="https://solved.ac/profile/taerinn">
-<img align='right' src="http://mazandi.herokuapp.com/api?handle=taerinn&theme=warm"/>
-</a>
-
-
 ### Who Am I
-
-<!--
-<a href="https://solved.ac/profile/taerinn">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taerinn">
-</a>
--->
-
-
-
 
 
 
