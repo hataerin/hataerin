@@ -8,8 +8,6 @@
 </p>
 
 
-### Who Am I
-
 
 <!-- 백준 프로필 카드
 <a href="https://solved.ac/profile/taerinn">
@@ -20,6 +18,9 @@
 <img align='right' src="http://mazandi.herokuapp.com/api?handle=taerinn&theme=warm"/>
 </a>
 
+
+
+### Who Am I
 
 - 🌱 I’m interested in `Software Development` and `Cloud`
 - 🎓 I majored in Computer Engineering
