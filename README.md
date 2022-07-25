@@ -2,6 +2,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
+<p>
+  I am junior backend developer 🐣 </br>
+  I want to grow more and more!
+</p>
+
+
+### Who Am I
+
+
 <!-- 백준 프로필 카드
 <a href="https://solved.ac/profile/taerinn">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taerinn">
@@ -11,14 +20,6 @@
 <img align='right' src="http://mazandi.herokuapp.com/api?handle=taerinn&theme=warm"/>
 </a>
 
-
-<p>
-  I am junior backend developer 🐣 </br>
-  I want to grow more and more!
-</p>
-
-
-### Who Am I
 
 - 🌱 I’m interested in `Software Development` and `Cloud`
 - 🎓 I majored in Computer Engineering
