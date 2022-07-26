@@ -31,6 +31,7 @@
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhataerin&count_bg=%23177E89&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%AD%90hits+&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-084c61?style=flat&logoColor=white&logo=tvtime)](https://dev-taerin.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db3a34?style=flat&logo=Gmail&logoColor=white)](mailto:goil1113@likelion.org)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked%20In-0A66C2?style=flat&logo=LinkedIn&logoColor=white)]()
 ![Notion Badge](https://img.shields.io/badge/Portfolio-f0a202?style=flat&logoColor=white&logo=notion)
 
 
