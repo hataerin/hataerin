@@ -32,7 +32,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-084c61?style=flat&logoColor=white&logo=tvtime)](https://dev-taerin.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db3a34?style=flat&logo=Gmail&logoColor=white)](mailto:goil1113@likelion.org)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked%20In-0A66C2?style=flat&logo=LinkedIn&logoColor=white)]()
-![Notion Badge](https://img.shields.io/badge/Portfolio-f0a202?style=flat&logoColor=white&logo=notion)
+[![Notion Badge](https://img.shields.io/badge/Portfolio-f0a202?style=flat&logoColor=white&logo=notion)]()
 
 
 ### Tech Stack 
