@@ -13,11 +13,11 @@
 <a href="https://solved.ac/profile/taerinn">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taerinn">
 </a>
--->
+
 <a href="https://solved.ac/profile/taerinn">
 <img align='right' src="http://mazandi.herokuapp.com/api?handle=taerinn&theme=warm"/>
 </a>
-
+-->
 
 
 ### Who Am I
