@@ -53,3 +53,6 @@
 ![Amazon S3](https://img.shields.io/badge/S3-FF9900?style=flat&logoColor=white&logo=AmazonS3)
 
 
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4)
+
